@@ -1,0 +1,4 @@
+{
+    "command": "flutter build apk --release --target-platform android-x64",
+    "working_directory": "/home/kavia/workspace/code-generation/namaste-baby-names-230183-230192/baby_name_finder_frontend"
+}
